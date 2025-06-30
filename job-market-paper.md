@@ -8,4 +8,4 @@ nav_order: 5
 
 # Job Market Paper
 
-**Status:** Available soon.
+**Available Soon** 
