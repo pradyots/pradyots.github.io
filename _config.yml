@@ -13,6 +13,7 @@ url: "https://pradsharma.com"
 
 theme: minima
 
+# Top nav menu, in the exact order you want:
 nav:
   - title: "Home"
     url: "/"
