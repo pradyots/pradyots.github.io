@@ -3,7 +3,6 @@
 layout: page
 title: Home
 permalink: /
-nav_order: 1
 ---
 
 ![Prad Sharma]({{ '/assets/img/p.sharma-2.jpeg' | relative_url }}){: width="150px" style="border-radius:50%; float:right; margin:0 0 1rem 1rem;"}
