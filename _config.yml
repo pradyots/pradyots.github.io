@@ -1,0 +1,16 @@
+title:   “Prad Sharma”
+email:   psharm6@gmu.edu
+description: “I am a PhD candidate in Economics at George Mason University. My research employs structural and applied econometric methods to study topics in political economy, 
+digital infrastructure and development, and regulation and income mobility. I will be on the academic job market for 2025–2026.”
+baseurl: ""            # leave blank for username.github.io
+url:      "https://your-username.github.io"
+
+theme: minima         # super-lightweight theme built in
+
+# Navigation links:
+nav:
+  - title: "Home"               url: /
+  - title: "CV"                 url: /cv/
+  - title: "Research"           url: /research/
+  - title: "Job Market Paper"   url: /job-market-paper/
+  - title: "Teaching"           url: /teaching/
