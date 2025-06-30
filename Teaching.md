@@ -10,7 +10,7 @@ nav_order: 4
 
 ### Instructor
 - **Econ 311: Intermediate Macroeconomics**  
-  - **Online:** Summer 2023, Summer 2024, Summer 2025   
+  - **Online:** Summer 2023, Summer 2024, Summer 2025 ([Syllabus](assets/pdf/GMU_Econ_311_Intermediate_Macroeconomics_Syllabus_Summer_2025.pdf))   
   - **In Person:** Spring 2024 (co-taught with Timothy Groseclose), Fall 2025  
 
 ### Teaching Assistant
