@@ -1,1 +1,8 @@
-
+<iframe
+  src="/assets/pdf/Pradyot_Sharma_CV.pdf"
+  width="100%"
+  height="800"
+  style="border:none;">
+  This browser does not support iframes. 
+  <a href="/assets/pdf/Pradyot_Sharma_CV.pdf">Download the PDF instead.</a>
+</iframe>
