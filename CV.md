@@ -1,3 +1,8 @@
+layout: page
+title: CV
+permalink: /CV/
+nav_order: 2 
+
 <iframe
   src="/assets/pdf/Pradyot_Sharma_CV.pdf"
   width="100%"
