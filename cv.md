@@ -1,6 +1,6 @@
 layout: page
 title: CV
-permalink: /CV/
+permalink: /cv/
 nav_order: 2 
 
 <iframe
