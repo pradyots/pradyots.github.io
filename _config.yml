@@ -1,5 +1,3 @@
-# _config.yml
-
 title: "Prad Sharma"
 email: "psharm6@gmu.edu"         # work (preferred)
 personal_email: "pradyot301@gmail.com"
@@ -10,7 +8,7 @@ description: >
   political economy, digital infrastructure and development, and regulation and income mobility.
   I will be on the academic job market for 2025–2026.
 
-baseurl: ""  
+baseurl: ""       # user/org site → leave blank
 url: "https://pradsharma.com"
 
 theme: minima
