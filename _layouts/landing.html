@@ -2,6 +2,17 @@
 <html lang="{{ site.lang | default: 'en' }}">
   <head>
     {% include head.html %}
+
+    <!-- full-width wrapper for PDF pages -->
+    <style>
+      .landing-page .wrapper {
+        max-width: 100% !important;
+        padding: 0 1rem !important;
+      }
+      .landing-page .main-content {
+        padding: 0 !important;
+      }
+    </style>
   </head>
   <body class="landing-page">
     {% include header.html %}
