@@ -2,19 +2,19 @@
 <html lang="{{ site.lang | default: 'en' }}">
   <head>
     {% include head.html %}
-    <!-- full-width wrapper and main-content on landing pages -->
+    <!-- shrink and center the content area on landing pages -->
     <style>
+      /* apply to every landing-layout page */
       .landing-page .wrapper,
       .landing-page .main-content {
-        max-width: 90% !important;
-        padding: 0  !important;
-        margin: 0 auto !important;
+        max-width: 90% !important;    /* use 90% of viewport width */
+        margin: 0 auto !important;    /* equal left/right gutters */
+        padding: 0 !important;
       }
     </style>
   </head>
   <body class="landing-page">
     {% include header.html %}
-
     <div class="wrapper">
       <main class="main-content" role="main">
         {{ content }}
