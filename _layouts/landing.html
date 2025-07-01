@@ -2,20 +2,19 @@
 <html lang="{{ site.lang | default: 'en' }}">
   <head>
     {% include head.html %}
-
-    <!-- full-width wrapper for PDF pages -->
+    <!-- full-width wrapper and main-content on landing pages -->
     <style>
-      .landing-page .wrapper {
-        max-width: 100% !important;
-        padding: 0 1rem !important;
-      }
+      .landing-page .wrapper,
       .landing-page .main-content {
+        max-width: 100% !important;
         padding: 0 !important;
+        margin: 0 !important;
       }
     </style>
   </head>
   <body class="landing-page">
     {% include header.html %}
+
     <div class="wrapper">
       <main class="main-content" role="main">
         {{ content }}
