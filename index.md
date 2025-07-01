@@ -1,5 +1,5 @@
 ---
-layout: default       # or "home" if you overrode home.html
+layout: default
 title: "Welcome"
 ---
 
