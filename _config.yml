@@ -15,7 +15,7 @@ theme: minima
 
 # Top nav menu, in the exact order you want:
 nav:
-  - title: "Home"
+  - title: "Welcome"
     url: "/"
   - title: "CV"
     url: "/cv/"
