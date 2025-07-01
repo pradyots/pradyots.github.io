@@ -2,7 +2,6 @@
 ---
 layout: page
 title: Home
-permalink: /
 ---
 
 ![Prad Sharma]({{ '/assets/img/p._sharma-2.jpeg' | relative_url }}){: width="150px" style="border-radius:50%; float:right; margin:0 0 1rem 1rem;"}
