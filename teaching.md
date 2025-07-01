@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Teaching
 permalink: /teaching/
 nav_order: 4
