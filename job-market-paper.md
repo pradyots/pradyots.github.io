@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: Job Market Paper
 permalink: /job-market-paper/
 nav_order: 5
