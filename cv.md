@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: CV
 permalink: /cv/
 nav_order: 2
